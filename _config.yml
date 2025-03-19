@@ -13,7 +13,7 @@ title                    : "Hefan Zhang"
 title_separator          : "-"
 name                     : &name "Hefan Zhang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://hf-heaven.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HF-heaven/HF-heaven.github.io"
 
@@ -22,13 +22,13 @@ repository               : "HF-heaven/HF-heaven.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.png"
   name             : "Hefan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to contact me!"
   location         : "United States"
   employer         : "Dartmouth College"
-  uri              : "https://hf-heaven.github.io/"
+  uri              : # "https://hf-heaven.github.io/"
   email            : "hefan.zhang.gr@dartmouth.edu" 
 
   # Academic websites
