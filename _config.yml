@@ -26,7 +26,7 @@ author:
   name             : "Hefan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to contact me!"
-  location         : "United States"
+  location         : "NH, United States"
   employer         : "Dartmouth College"
   uri              : # "https://hf-heaven.github.io/"
   email            : "hefan.zhang.gr@dartmouth.edu" 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wRwevIkAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-0879-6872"
+  orcid            : # "https://orcid.org/0009-0004-0879-6872"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
