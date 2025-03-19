@@ -22,7 +22,7 @@ repository               : "HF-heaven/HF-heaven.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpg"
+  avatar           : "profile_photo.png"
   name             : "Hefan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to contact me!"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "HF-heaven"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Hefan Zhang" # Username
+  linkedin         : "https://www.linkedin.com/in/hefan-zhang-8673b82aa" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
