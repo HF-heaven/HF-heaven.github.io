@@ -2,7 +2,7 @@
 title: "Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication"
 collection: publications
 category: conferences
-permalink: https://arxiv.org/abs/2502.08896
+permalink: 'https://arxiv.org/abs/2502.08896'
 excerpt: 'This paper presents a multi-LLM communication framework designed to enhance the generation of persuasive data automatically.'
 date: 2025-02-13
 venue: 'NAACL 2025'

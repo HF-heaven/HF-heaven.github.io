@@ -2,7 +2,7 @@
 title: "Improving Syntactic Probing Correctness and Robustness with Control Tasks"
 collection: publications
 category: conferences
-permalink: https://aclanthology.org/2023.acl-short.35/
+permalink: 'https://aclanthology.org/2023.acl-short.35/'
 excerpt: 'This paper presents a random-word-substitution and random-label-matching control task to reduce these biases and improve the robustness of syntactic probing methods.'
 date: 2023-07-01
 venue: 'ACL 2023'
