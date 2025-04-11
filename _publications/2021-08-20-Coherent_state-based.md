@@ -1,7 +1,7 @@
 ---
 title: "Coherent state-based continuous variable quantum identity authentication method and system"
 collection: publications
-category: patents
+category: manuscripts
 permalink: https://patents.google.com/patent/CN113285800A/en?oq=CN113285800A
 excerpt: 'The invention provides a coherent state-based continuous variable quantum identity authentication method and a coherent state-based continuous variable quantum identity authentication system.'
 date: 2021-08-20

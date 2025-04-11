@@ -4,9 +4,8 @@ collection: publications
 category: conferences
 permalink: https://aclanthology.org/2023.acl-short.35/
 excerpt: 'This paper presents a random-word-substitution and random-label-matching control task to reduce these biases and improve the robustness of syntactic probing methods.'
-date: 2023-07
+date: 2023-07-01
 venue: 'ACL 2023'
-<!-- slidesurl: 'http://academicpages.github.io/files/slides3.pdf'-->
 paperurl: 'https://aclanthology.org/2023.acl-short.35.pdf'
 citation: 'Ma, Weicheng, Brian Wang, Hefan Zhang, Lili Wang, Rolando Coto-Solano, Saeed Hassanpour, and Soroush Vosoughi. &quot;Improving Syntactic Probing Correctness and Robustness with Control Tasks.&quot; In <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</i>, pp. 402-415. 2023.'
 ---
