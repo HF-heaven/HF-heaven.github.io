@@ -704,14 +704,14 @@ pre>code {
 
 .shallow-bg {
     /* background-image: url("images/background/background1.JPG"); */
-    background-image: url("images/background/background_hkust_2.jpg");
+    background-image: url("images/background/background_killington.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center
 }
 
 .deep-bg {
-    background-image: url("images/background/background2.JPG");
+    background-image: url("images/background/background_rustylake.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center
@@ -831,9 +831,10 @@ pre>code {
 }
 
 #my-desc-title {
-    font-size: 28px;
+    font-size: 32px;
+    font-weight: bold;
     color: #fff;
-    font-weight: bold
+    margin-bottom: 0;
 }
 
 #my-desc-content {
